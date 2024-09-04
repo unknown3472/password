@@ -19,3 +19,7 @@ func CheckPassword(hashedPassword, password string)bool{
 func AddInteger(a, b int)int{
 	return a+b
 }
+
+func SubtractInteger(a, b int)int{
+	return a-b
+}
